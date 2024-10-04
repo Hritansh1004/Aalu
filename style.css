@@ -1,0 +1,164 @@
+* { font-family:Georgia, 'Times New Roman', Times, serif;}
+
+
+header {
+
+    background-color: pink;
+}
+
+.Heading {
+    font-family:cursive;
+    text-align: center;
+    padding-left: 7%;
+
+}
+#sub1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-small;
+    font-weight: normal;
+}
+
+main {
+    
+   
+
+    background-color: rgb(224, 224, 224);
+    
+    padding-left: 10%;
+    padding-top: 3%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+   margin-left: 5%;
+   margin-right: 5%;
+   
+}
+
+#end {
+    
+    padding-top: 5%;
+    font-size: larger;
+    text-align: center;
+}
+
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+     
+    background-color: #667BC6;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+
+
+a {
+    cursor: pointer;
+    color: rgb(238, 0, 139);
+}
+
+.Khandan {
+    display: none;
+    margin-top: 10px;
+} 
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    border: 10px solid pink;
+    width: 50%;
+    border-radius: 30px;
+}
+
+
+/*
+#head {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;*/
+
+    .link {
+
+        font-size: 60%;
+        font-weight: none;
+        color: rgb(66, 66, 117);
+    }
+    
+#Feedbackdedo  {
+        text-decoration: underline;
+      
+            
+           
+    }
+   
+  
+
+    .Naam {
+        display: flex;
+        gap: 10px; /* Adds space between the two columns */
+    }
+    
+    .Namee {
+        display: flex;
+        flex-direction: column; /* Stacks label and input vertically */
+    } 
+    .Namee input {
+        background-color: #e2e2e2;
+        border: 3px #007BFF;
+    }
+    
+    label {
+        margin-bottom: 5px; /* Adds space between label and input */
+    }
+
+   
+
+     #backfeed {
+
+        background-color: #e2e2e2;
+        border: 1px solid #007BFF ;
+        border-radius: 2px;
+       
+    }
+    
+   
+
+   /* input {
+        width: 300px;  Optional: Controls the width of the input fields */
+    
+    
+   
+
+    
+/*  .Naam {
+
+        display: flex;
+        gap: 10px;
+
+
+
+    }
+
+    .Namee {
+
+        display: flex;
+        flex-direction: column;
+    }
+
+    label {
+        margin-bottom: 5px;
+    }*/
+
+
+    #submit {
+
+        width: 130px;
+        height: 40px;
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #FF69B4;
+        color: white;
+        border: none;
+        border-radius: 100px;
+        cursor: pointer;
+        
+    }
