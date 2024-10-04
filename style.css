@@ -105,6 +105,12 @@ img {
         background-color: #e2e2e2;
         border: 3px #007BFF;
     }
+
+    .Namee input {
+
+        width : 81%; 
+
+        }
     
     label {
         margin-bottom: 5px; /* Adds space between label and input */
